@@ -1,7 +1,7 @@
 <h1 align="center">
     🔗 WebApi
 </h1>
-<p align="center">🚀 WebApi com dotnet core e entity framework, com o mysql no docker</p>
+<p align="center">🚀 WebApi com dotnet core e entity framework, com o mysql no docker e swagger</p>
 
 <!--ts-->
    * [Instalação](#instalacao)
